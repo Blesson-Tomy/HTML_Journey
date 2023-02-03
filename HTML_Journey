@@ -3,12 +3,32 @@
 
 <h1>Hello World</h1>
 <body> 
+
+<title><b>Day 1</b></title>
     This is Blesson's proper beginning in web development.
     I have started a new course on Web Development - Free Code Camp. 
     it is focused mainly on website Creation using HTML. I will begin with that first.
     I will be spending minimum 15 minutes a day working on this platfrom. The first video i am 
     watching focuses on only HTML and has a duration of 2 hours. Looking forward to start work!
     I will be linking this file and my noting my journey on my Github account. Stay tuned for Day 2!
+<para>
+<title><b>Day 2</b></title>
+    On day 2, I learnt about 2 things. Firstly, Charset and then Meta. Using these funtions is still
+    a mystery to me but that is ok, I shall continue to learn daily. So now, I would like to make a 
+    list of all the things I have learned to keep track of it and not forget.
+
+    <ul>
+        <li>Title</li>
+        <li>Meta</li>
+        <li>Charset</li>
+        <li>
+
+</para>
+
+
+
+
+
 </body>
 
 <body></body>
